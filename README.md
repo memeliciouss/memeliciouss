@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rakshit Raj (memeliciouss)</h1>
-<h3 align="center">Curious and a quick learner with a strong interest in Robotics, Computer and Technology. Cooperative, adaptive, and a team player, pursuing B. Tech. in Production and Industrial Engineering from PEC, Chandigarh.</h3>
+<h3 align="center">Curious tech enthusiast with a passion for Robotics, Computers, and all things Engineering. Quick learner, team player, and currently pursuing B.Tech in Production & Industrial Engineering at PEC, Chandigarh.</h3>
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshit-raj-bab68a285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakshit3raj@gmail.com) 

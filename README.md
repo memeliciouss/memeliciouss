@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Rakshit Raj (memeliciouss)</h1>
 <h3 align="center">Curious and a quick learner with a strong interest in Robotics, Computer and Technology. Cooperative, adaptive, and a team player, pursuing B. Tech. in Production and Industrial Engineering from PEC, Chandigarh.</h3>
-(https://visitcount.itsvg.in/api?id=memeliciouss&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:

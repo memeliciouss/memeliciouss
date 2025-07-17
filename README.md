@@ -1,6 +1,5 @@
 <h1>Hi, I&#39;m Rakshit Raj (@memeliciouss)</h1>
-<p>Curious tech enthusiast with a passion for Robotics, Computers, and all things Engineering.
-    <br>Quick learner, team player, and currently pursuing B.Tech in Production &amp; Industrial Engineering at PEC, Chandigarh.</p>
+<p>Driven by curiosity to explore software development and all things tech, believing that learning never stops and every challenge is an opportunity to grow.
 <hr/>
 <h3>Connect with me:</h3>
 <p>

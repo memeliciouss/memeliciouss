@@ -1,6 +1,7 @@
 <h1>Hi, I&#39;m Rakshit Raj (@memeliciouss)</h1>
-<p>Driven by curiosity to explore software development and all things tech, believing that learning never stops and every challenge is an opportunity to grow.
+My Online Space: [memelicious-viewport.vercel.app](https://memelicious-viewport.vercel.app)
 <hr/>
+    [![Lichess Stats](https://lichess-readme-stats.vercel.app/api?username=memeliciouss&theme=dark)](https://lichess.org/@/memeliciouss)
 <h3>Connect with me:</h3>
 <p>
     <a href="https://linkedin.com/in/rakshit-raj-bab68a285"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
